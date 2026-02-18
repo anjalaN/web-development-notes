@@ -14,22 +14,14 @@ In the filename box, type: html-notes.md
 ## step 4 6 Write your first note
 Inside the big white box, type this:
 
-# HTML Basics
+### More iformation link
+*[go to website !](https://learn.scds.ca/github-pages/lessons/lesson1.html)*
+[go to website !](https://learn.scds.ca/github-pages/lessons/lesson2.html)
+[go to website !](https://learn.scds.ca/github-pages/lessons/lesson3.html)
+[go to website !](https://learn.scds.ca/github-pages/lessons/lesson4.html)
 
-HTML stands for HyperText Markup Language.  
-It is used to structure content on the web.
 
-## Basic Structure
 
-```html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>My Page</title>
-</head>
-<body>
-    <h1>Hello World</h1>
-</body>
-</html>
+
 
 
